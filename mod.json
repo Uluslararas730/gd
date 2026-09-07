@@ -1,0 +1,14 @@
+{
+    "geode": ">=5.0.0",
+    "gd": "*",
+    "version": "v1.0.0",
+    "id": "uluslararas730.gdsavetool",
+    "name": "GD Save Tool",
+    "developer": "Uluslararas730",
+    "description": "Geometry Dash kayit dosyalarini (.dat) XML olarak disa aktarir ve XML'den tekrar .dat olarak sifreler.",
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    }
+}
